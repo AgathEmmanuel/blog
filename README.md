@@ -39,3 +39,44 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+
+
+## Steps
+
+
+npx create-docusaurus@latest blog classic
+
+npm start
+
+git init
+
+git add .
+
+git commit -m "Add existing project files to Git"
+
+git remote add origin https://github.com/agathemmanuel/blog.git
+
+git push -u origin master
+
+
+
+```
+docusaurus.config.js
+
+module.exports = {
+  // ...
+  url: 'https://agathemmanuel.github.io', // Your website URL
+  baseUrl: '/blog',
+  projectName: 'agathemmanuel.github.io',
+  organizationName: 'agathemmanuel',
+  trailingSlash: false,
+  // ...
+};
+
+```
+
+GIT_USER=<GITHUB_USERNAME> yarn deploy
+
+
