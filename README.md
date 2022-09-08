@@ -80,3 +80,15 @@ module.exports = {
 GIT_USER=<GITHUB_USERNAME> yarn deploy
 
 
+
+
+
+
+# Blogs  
+
+- Creating a simple kubernetes operator from scratch with Kubebulder and golang  
+- Creating a simple kubernetes operator from scratch with Operator sdk and golang  
+  it restarts the pods with a specific annotation in specified schedule
+- Extending kubernetes api with Google Cloud Storage resource  
+- Getting started with KUDO Operators  
+- Getting started with Kapitan  
