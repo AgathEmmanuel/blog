@@ -9,6 +9,7 @@ sidebar_position: 1
 Our discussions will revolve around topics like:
 - Infrastructure Engineering  
 - Software Engineering  
+- Cloud Computing  
 - Kubernetes  
 - Site Reliability Engineering
 - Data Engineering  

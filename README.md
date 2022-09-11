@@ -82,7 +82,8 @@ module.exports = {
 
 ```
 
-GIT_USER=<GITHUB_USERNAME> yarn deploy
+GIT_USER=<GITHUB_USERNAME>   
+yarn deploy  
 
 
 
