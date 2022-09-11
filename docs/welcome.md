@@ -1,16 +1,37 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Docusaurus Tutorial Intro
+# Welcome to Platform Engineering
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**Blogs Focused on Technical Content in Platform Engineering Space**.  
 
-## Getting Started
+Our discussions will revolve around topics like:
+- Infrastructure Engineering  
+- Software Engineering  
+- Kubernetes  
+- Site Reliability Engineering
+- Data Engineering  
+- ML Engineering
+- Linux  
+- DevOps
+- DataOps
+- MlOps
+- Computer Networking
+- Tools  
+- CyberSecurity
+- Computer Architecture
+- Scalable Distributed Systems
 
-Get started by **creating a new site**.
+### Getting Started
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Platform Engineering  
+
+## DevOps
+
+DevOps is culture and a set of practices focused on increases an organizations ability to deliver applications and services and improving them at a faster pace.   
+
+
 
 ### What you'll need
 
