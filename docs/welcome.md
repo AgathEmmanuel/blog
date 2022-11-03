@@ -2,11 +2,14 @@
 sidebar_position: 1
 ---
 
-# Welcome to Platform Engineering
+#  Congitive Bytes
 
-**Blogs Focused on Technical Content in Platform Engineering Space**.  
+**Blogs Focused on Content in Technology, Finance and Business Space**.  
 
 Our discussions will revolve around topics like:
+- Finance  
+- Business  
+- Platform Engineering  
 - Infrastructure Engineering  
 - Software Engineering  
 - Cloud Computing  
