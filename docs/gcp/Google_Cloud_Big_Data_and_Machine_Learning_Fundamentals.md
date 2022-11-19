@@ -102,4 +102,73 @@ points to be considered
 Dataflow:  fully managed service for execurting apache beam pipelines within google cloud sytem  
 
 
+creating dataflow job from a template  
+subscribing to pub/sub topic  
+streaming a dataflow pipeline into bigquery  
+monitoring a dataflow pipeline in bigquery  
+analyzing results with sql  
+visualysing metrics in datastudio  
+
+
+
+
+Bigquery  
+- fully managed serverless solution  
+- storage + analytics  
+- data encyption at rest by default  
+- flexible pay as you go  
+- built in machine learning  
+- ad hoc analysis  
+- geospatial analysis  
+- building machine learning models  
+- building BI dashboards  
+
+
+
+ML project phases with bigquery  
+- extract, transform, load data into bigquery  
+- select and preprocess features  
+- create the model inside bigquery  
+- evalute performance of trained model  
+- use model to make predictions  
+
+
+
+
+ML options on gcp  
+- bigquery ml  
+- pre built apis  
+- autoML  
+- custom training  
+
+
+
+
+AutoML  
+- image   (classification model, object detection model, etc)  
+- tabular  (regression model, classification model, forecasting model, etc)
+- text  (classification model, entity extraction model, sentiment analysis model, etc)  
+- video  (classification model, object tracking model, action recognition model, etc)  
+
+- solves different types of problems called objectives  
+- uses custom built ml models  
+
+
+Custom Training  
+- Vertex AI  
+- helps build with AutoML or Custom training  
+- prebuilt container, custom container  
+- create, deploy and manage models  
+- data readiness, feature readiness, training and hyperparameter tuning, deployment and model monitoring  
+- seamless, scalable, sustainable, speedy  
+
+
+
+
+AI solutions  
+- horizontal solutions (Document AI, CCAI)  
+- vertical or industry solutions  ( retail product discovery, healthcare data engine, lending docai )  
+
+
+
 
