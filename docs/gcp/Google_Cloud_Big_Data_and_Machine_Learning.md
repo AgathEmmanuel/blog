@@ -138,8 +138,8 @@ ML project phases with bigquery
 ML options on gcp  
 - bigquery ml  
 - pre built apis  
-- autoML  
-- custom training  
+- autoML   ( codeless )  
+- custom training  ( code-based )  
 
 
 
@@ -168,6 +168,65 @@ Custom Training
 AI solutions  
 - horizontal solutions (Document AI, CCAI)  
 - vertical or industry solutions  ( retail product discovery, healthcare data engine, lending docai )  
+
+
+
+
+## Vertex AI  Machine Learning Workflow  
+- data preparation  ( data uploading, fearute engineering, streaming vs batch data, structured vs unstructured data )  
+- model training  (train data, evaluate data )  
+- model serving  ( depoyed, moinitored, managed )  
+
+- feature store  
+- vizier  
+- explainable AI  
+- pipelines  
+
+
+Data preparation  
+- provide a meaningful name  
+- select the data type and objective  
+- lablel is a training target  
+- can be manually added or using google paid label service  
+- check data requirements  
+- add lable to data  
+- upload data  
+
+Feature engineering  
+- feature refers to factor that contributes to prediction  
+- vertex ai feature store ( aggregate and updates features  )  
+
+Model training  
+- model training  
+- model evaluation  
+- supervised learning ( task driven and identifies a goal,   classification, regression model )  
+- unsupervised learning ( data driven and identifies a pattern   clustering, association, dimensionality reduction )  
+
+Model evaluation  
+- evaluation metrics  
+- confusion matircs ( recall, precision )  ( actual value vs predicted value )  
+- recall: refers to all positive cases, & looks at how many were predicted correctly  
+- precision: refers to all cases predicted positive and how many are actually positive  
+- feature importance  ( explainable ai )  
+
+
+
+Practicing MLOps  
+- model serving ( model deployment, model monitoring )  
+- ML development ( upload data, engineer feature, train model, evaluate result )  
+- operations ( deploy, monitor, release )  
+
+- solve production challenges  
+- building an integrated ml system  
+- operating in production  
+- advocating for automation and monitoring at each step of the ML system construction  
+- adapting a process to enable ( continous integration, training, delivery )  
+
+- vertex ai pipelines   help in model monitoring  
+- vertex ai workbench   define your own pipeline with prebuilt pipeline components  
+
+
+
 
 
 
