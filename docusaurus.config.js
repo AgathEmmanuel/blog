@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to Platform Engineering Blog',
+  title: 'Welcome to My Technical Blog Writing Server',
   tagline: 'Lets get Started !!!!!',
   url: 'https://agathemmanuel.github.io',
   baseUrl: '/blog/',
