@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.welcomeButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aqua;
+}
+
