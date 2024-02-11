@@ -4,11 +4,9 @@ sidebar_position: 1
 
 #  Congitive Bytes
 
-**Blogs Focused on Content in Technology, Finance and Business Space**.  
+**Blogs Focused on Content in Technology**  
 
 Our discussions will revolve around topics like:
-- Finance  
-- Business  
 - Platform Engineering  
 - Infrastructure Engineering  
 - Software Engineering  
